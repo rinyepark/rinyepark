@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7&height=200&section=header&text=rinyepark's%20Github&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3&height=200&section=header&text=rinyepark's%20Github&fontSize=70&animation=twinkling)
 
+## 🍀Skills
 <div align=left> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
@@ -10,7 +11,13 @@
 
 <br/>
 
-![rinyepark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinyepark&show_icons=true&theme=github_dark)
+## 🍀Stats
+![rinyepark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinyepark&show_icons=true&theme=dracula )
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinyepark&layout=compact&theme=dracula )](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **rinyepark/rinyepark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
