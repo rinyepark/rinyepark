@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3&height=200&section=header&text=rinyepark's%20Github&fontSize=70&animation=twinkling)
 
-## 🍀Skills
+## ✨Skills
 <div align=left> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
